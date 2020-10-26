@@ -1,3 +1,3 @@
 # til
 
-<small>Inspired by https://github.com/simonw/til</small>
+<sub>Inspired by https://github.com/simonw/til</sub>
